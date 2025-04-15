@@ -1,0 +1,4 @@
+python-dotenv
+colorama
+python-telegram-bot==22.0
+nest-asyncio
